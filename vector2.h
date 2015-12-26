@@ -3,7 +3,7 @@
 #define _USE_MATH_DEFINES
 #include <math.h>
 
-#include <additional_math.h>
+#include "additional_math.h"
 
 template <class type>
 class vector2
